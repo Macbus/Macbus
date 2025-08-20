@@ -2,8 +2,8 @@
 
 ## Experience
 
-1 - Telecommunications Technician Senior 
-2 - Developer Junior
+1. Telecommunications Technician Senior 
+2. Developer Junior
 
 <!--
 **Macbus/Macbus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
